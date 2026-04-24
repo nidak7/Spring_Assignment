@@ -1,0 +1,10 @@
+.idea/
+target/
+*.iml
+
+assignment_pdf.txt
+docker-compose.run.yml
+
+*.log
+Thumbs.db
+.DS_Store
